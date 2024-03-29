@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Qu'est-ce qui définit un groupe d'options associées dans une liste déroulante  ?",
+        "options": ["<form>", "<optgroup>", "<output>", "<option>"],
+        "answer": "<form>"
+    },
+    {
+        "question": "Quel élément ne prend pas en charge l'attribut autofocus  ?",
+        "options": ["<input>", "<select>", "<textarea>", "<base>"],
+        "answer": "<base>"
+    },
+    {
+        "question": "Quelle balise est utilisée pour insérer le plus grand titre en HTML ?",
+        "options": ["head", "<h1>", "<h6>", "heading"],
+        "answer": "<h1>"
+    },
+    {
+        "question": " Quel élément est utilisé pour créer une entrée de texte multiligne ?",
+        "options": ["text","textarea","sumbit","radio button"],
+        "answer": "textarea"
+    }
+]
